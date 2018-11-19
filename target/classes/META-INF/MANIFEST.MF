@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ti064407
+Build-Jdk: 11.0.1
+Implementation-Title: HelloWorldTema2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: facultate.an3.sem1.AOS
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/HelloWorldDocker
+Created-By: Maven Integration for Eclipse
+
